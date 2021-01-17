@@ -49,7 +49,7 @@
     color: var(--primary-color);
     margin-right: 10px;
   }
-  
+
   .orders-list-container {
     display: flex;
     justify-content: center;
